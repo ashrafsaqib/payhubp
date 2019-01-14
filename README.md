@@ -1,5 +1,5 @@
 # payhubp
-Payhub Plus Transaction API PHP Package
+Payhub Plus Transaction API PHP Package For Laravel and with some minor customization it can be used without laravel as well.
 
 ## Installation
 
