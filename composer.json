@@ -1,0 +1,26 @@
+{
+    "name": "ashrafsaqib/payhubp",
+    "type": "library",
+    "description": "Payhub Plus Transactions API",
+    "keywords": ["payhub","payhub plus"],
+    "homepage": "https://github.com/ashrafsaqib/payhubp",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saqib Ashraf",
+            "email": "linktosaqib@gmail.com",
+            "homepage": "http://iextendlabs.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "PayHubP\\": "src"
+        },
+        
+    }
+}
