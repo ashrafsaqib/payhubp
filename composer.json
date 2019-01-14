@@ -12,11 +12,11 @@
             "homepage": "http://iextendlabs.com",
             "role": "Developer"
         },
-         {
+        {
             "name": "Zubair Niazi",
             "role": "Developer"
         },
-         {
+        {
             "name": "Payhub Plus Sample Code Developer"
         }
     ],
@@ -27,7 +27,6 @@
         "psr-4": {
             "App\\": "app/",
             "PayHubP\\": "src"
-        },
-        
+        }        
     }
 }
