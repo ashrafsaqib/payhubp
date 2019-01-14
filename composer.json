@@ -11,6 +11,13 @@
             "email": "linktosaqib@gmail.com",
             "homepage": "http://iextendlabs.com",
             "role": "Developer"
+        },
+         {
+            "name": "Zubair Niazi",
+            "role": "Developer"
+        },
+         {
+            "name": "Payhub Plus Sample Code Developer"
         }
     ],
     "require": {
